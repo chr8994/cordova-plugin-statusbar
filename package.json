@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-statusbar",
+  "version": "0.0.1",
+  "description": "Test description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chr8994/cordova-plugin-statusbar.git"
+  },
+  "author": "Christian Gomez <chr8993@gmail.com> (http://christiangomez.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chr8994/cordova-plugin-statusbar/issues"
+  },
+  "homepage": "https://github.com/chr8994/cordova-plugin-statusbar#readme"
+}
